@@ -1,6 +1,6 @@
 # Projects
 
-This section contains cloud, Azure, GitHub, and business-focused projects completed throughout my Cloud Engineering journey.
+This section contains Home cloud, Azure, GitHub, and business-focused projects completed throughout my Cloud Engineering journey.
 
 Goals:
 
