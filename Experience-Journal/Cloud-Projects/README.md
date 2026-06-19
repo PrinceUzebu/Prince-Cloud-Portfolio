@@ -1,6 +1,6 @@
 # Cloud Projects
 
-This section documents cloud-focused projects, application administration, Azure-related work, GitHub activities, and hands-on technical projects completed in production and lab environments.
+This section documents company & cloud-focused projects, application administration, Azure-related work, GitHub activities, and hands-on technical projects completed in production and lab environments.
 
 ## Skills Demonstrated
 
